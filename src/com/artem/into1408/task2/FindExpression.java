@@ -1,10 +1,7 @@
 package com.artem.into1408.task2;
-
 import java.util.Scanner;
-
 import static java.lang.Math.pow;
-import static java.lang.Math.sqrt;
-
+import static java.lang.Math.sqrt
 public class FindExpression {
 
     public static double myNewMethod(double x,  double y, double c){
